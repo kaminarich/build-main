@@ -2,10 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/cpu-24.svg" width="64" height="64" />
 
-# SAGA KERNEL
+# AETHERIUM KERNEL
 
 [![Build](https://img.shields.io/github/actions/workflow/status/chainonyourdoor/LuminaireProtocol/build.yml?branch=main&label=build&logo=github&style=for-the-badge)](https://github.com/Andrews571/LuminaireProtocol/actions)
-[![Telegram](https://img.shields.io/badge/Telegram-SAGA-blue?style=for-the-badge&logo=telegram)](https://t.me/c/4443561826/1)
+[![Telegram](https://img.shields.io/badge/Telegram-Aetherium-blue?style=for-the-badge&logo=telegram)](https://t.me/c/4443561826/1)
 </div>
 
 ---
@@ -22,7 +22,7 @@ This repo does **not** contain kernel source — it contains all the scripts and
 
 ---
 
-## Build System
+## Aetherium-Build System
 
 - **MAKE** — Clang (AOSP / Neutron / WeebX / ZyC) + ccache-ECS
 
